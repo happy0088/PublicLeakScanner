@@ -10,4 +10,4 @@ EMAIL_CONFIG = {
     'password': 'your_email_password'
 }
 
-QUERY_TEXT = 'tekion'
+QUERY_TEXT = 'YourCompanyName'
